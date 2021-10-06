@@ -19,7 +19,7 @@ namespace EFCoreMario
             Guardar(context, "hola");
             Modificar(context, "Yeuri");
             Eliminar(context);
-
+            
         }
 
         public static string GetName()
